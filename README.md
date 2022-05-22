@@ -9,5 +9,5 @@ I don't recommend you use it. Have a look to see why.
 <img align="right" alt="Rory's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RoryNesbitt&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/ferdium/ferdium-app/issues/111) in [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app)
+1. 🗣 Commented on [#171](https://github.com/ferdium/ferdium-app/issues/171) in [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app)
 <!--END_SECTION:activity-->
