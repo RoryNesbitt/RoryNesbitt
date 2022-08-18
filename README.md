@@ -1,6 +1,6 @@
 # Hello there, I'm Rory Nesbitt
 
-- I'm an RA and soon-to-be PhD student at Glasgow Uni.
+- I'm an RA and PhD student at Glasgow Uni.
 - Currently I'm working with RFID technology and teaching through gaming.
 - By best maintained repo is [RNvim](https://github.com/Rorynesbitt/RNvim) and
 I don't recommend you use it. Have a look to see why.
