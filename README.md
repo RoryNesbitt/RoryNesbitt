@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/mtwb47/TLC-Comments/issues/2) in [mtwb47/TLC-Comments](https://github.com/mtwb47/TLC-Comments)
+1. 🗣 Commented on [#671](https://github.com/ferdium/ferdium-app/issues/671) in [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app)
 <!--END_SECTION:activity-->
