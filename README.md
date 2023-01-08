@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1138](https://github.com/wbthomason/packer.nvim/issues/1138) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+1. 💪 Opened PR [#125](https://github.com/phaazon/this-week-in-neovim-contents/pull/125) in [phaazon/this-week-in-neovim-contents](https://github.com/phaazon/this-week-in-neovim-contents)
 <!--END_SECTION:activity-->
