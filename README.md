@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#125](https://github.com/phaazon/this-week-in-neovim-contents/pull/125) in [phaazon/this-week-in-neovim-contents](https://github.com/phaazon/this-week-in-neovim-contents)
+1. 🗣 Commented on [#40](https://github.com/stevearc/oil.nvim/issues/40) in [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)
 <!--END_SECTION:activity-->
