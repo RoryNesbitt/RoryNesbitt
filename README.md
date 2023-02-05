@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#269](https://github.com/glepnir/dashboard-nvim/issues/269) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
+1. ❗️ Closed issue [#1085](https://github.com/gokcehan/lf/issues/1085) in [gokcehan/lf](https://github.com/gokcehan/lf)
 <!--END_SECTION:activity-->
