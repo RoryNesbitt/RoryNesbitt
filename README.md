@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1085](https://github.com/gokcehan/lf/issues/1085) in [gokcehan/lf](https://github.com/gokcehan/lf)
+1. ❗️ Closed issue [#471](https://github.com/nitnelave/lldap/issues/471) in [nitnelave/lldap](https://github.com/nitnelave/lldap)
 <!--END_SECTION:activity-->
