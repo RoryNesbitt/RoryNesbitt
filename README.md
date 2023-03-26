@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#471](https://github.com/nitnelave/lldap/issues/471) in [nitnelave/lldap](https://github.com/nitnelave/lldap)
+1. ❗️ Opened issue [#1066](https://github.com/ferdium/ferdium-app/issues/1066) in [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app)
 <!--END_SECTION:activity-->
