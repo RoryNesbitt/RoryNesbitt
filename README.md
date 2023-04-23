@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/linuxserver/docker-wikijs/issues/26) in [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs)
+1. 🗣 Commented on [#26](https://github.com/linuxserver/docker-wikijs/issues/26) in [linuxserver/docker-wikijs](https://github.com/linuxserver/docker-wikijs)
 <!--END_SECTION:activity-->
