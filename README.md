@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#394](https://github.com/nvim-telescope/telescope.nvim/issues/394) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+1. ❗ Opened issue [#172](https://github.com/revenz/Fenrus/issues/172) in [revenz/Fenrus](https://github.com/revenz/Fenrus)
 <!--END_SECTION:activity-->
