@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#172](https://github.com/revenz/Fenrus/issues/172) in [revenz/Fenrus](https://github.com/revenz/Fenrus)
+1. 🗣 Commented on [#541](https://github.com/NeogitOrg/neogit/issues/541) in [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)
 <!--END_SECTION:activity-->
