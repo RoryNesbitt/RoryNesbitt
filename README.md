@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#541](https://github.com/NeogitOrg/neogit/issues/541) in [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)
+1. 💪 Opened PR [#13](https://github.com/creativenull/efmls-configs-nvim/pull/13) in [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim)
 <!--END_SECTION:activity-->
