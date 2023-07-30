@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/meatballs/notebook.nvim/issues/12) in [meatballs/notebook.nvim](https://github.com/meatballs/notebook.nvim)
+1. 💪 Opened PR [#5](https://github.com/creativenull/dotfyle-metadata.nvim/pull/5) in [creativenull/dotfyle-metadata.nvim](https://github.com/creativenull/dotfyle-metadata.nvim)
 <!--END_SECTION:activity-->
