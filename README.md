@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/creativenull/dotfyle-metadata.nvim/pull/5) in [creativenull/dotfyle-metadata.nvim](https://github.com/creativenull/dotfyle-metadata.nvim)
+1. ❗ Opened issue [#707](https://github.com/NeogitOrg/neogit/issues/707) in [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)
 <!--END_SECTION:activity-->
