@@ -14,5 +14,5 @@ more portable
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rorynesbitt&show_icons=true&locale=en&theme=gotham&hide_border=true&hide_rank=true" alt="rory" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#707](https://github.com/NeogitOrg/neogit/issues/707) in [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)
+1. 💪 Opened PR [#1](https://github.com/codicocodes/this-week-in-neovim-contents/pull/1) in [codicocodes/this-week-in-neovim-contents](https://github.com/codicocodes/this-week-in-neovim-contents)
 <!--END_SECTION:activity-->
