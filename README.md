@@ -2,7 +2,7 @@
 
 - I'm a PhD student at Glasgow Uni.
 - Currently I'm working mostly with backscatter technology.
-- By best maintained repo is [RNvim](https://github.com/Rorynesbitt/RNvim) and
+- My best maintained repo is [RNvim](https://github.com/Rorynesbitt/RNvim) and
 I don't recommend you use it. Have a look to see why.
 - I also made [pvim](https://github.com/RoryNesbitt/pvim) for making your neovim
 more portable
