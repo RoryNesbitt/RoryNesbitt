@@ -1,0 +1,25 @@
+site_name: "RoryNesbittDesign"
+
+favicon: /assets/favicon.png
+
+# Deep-merged with defaults and any theme -- you can set just one of
+# these and inherit the rest.
+colors:
+  bg: "#1a1a1a"
+  ink: "#ececec"
+  accent: "#8b1a1a"
+
+# Appended (not replaced) as you cascade into subdirectories.
+custom_css: |
+  h1 { letter-spacing: 0.02em; }
+  .wikilink { text-decoration-style: dotted; }
+
+# Overridden wholesale by any deeper .wiki.yaml that also sets this.
+custom_html_head: ""
+
+# Toggle sidebar sections on/off. All default to true if omitted.
+components:
+  pages: false
+  contents: false
+  backlinks: false
+  tags: false
